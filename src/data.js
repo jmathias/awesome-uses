@@ -19702,7 +19702,7 @@ module.exports = [
     name: 'James Mathias',
     description: 'Artist, Writer, & Outlaw',
     url: 'https://artisticoutlaw.com/outlaw/uses',
-    twitter: '@jmathias',
+    bluesky: 'artisticoutlaw.com',
     emoji: '🍰',
     country: '🇺🇸',
     computer: 'apple',
@@ -19717,6 +19717,7 @@ module.exports = [
       'HTML',
       'CSS',
       'JavaScript',
+      'Miniature Painter',
     ],
   },
   {
